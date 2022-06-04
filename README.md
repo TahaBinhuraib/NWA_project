@@ -26,7 +26,7 @@ pip install -r requirements.txt
 * [Visualizations](/analyses/visualization.ipynb)
 * [Generalized Linear Models on fMRI Data](/analyses/GLMfmri.ipynb)
 * [PCC](/analyses/PCC.ipynb)
-* [Binary Classification with Beta Coefficient](/analyses/ClassificationBetasAverage.ipynb)
+* [Binary Classification with Beta Coefficients](/analyses/ClassificationBetasAverage.ipynb)
 * [PyTorch Binary Classification](/analyses/BinaryPredictionPyTorch)
   
 ## Results
